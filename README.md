@@ -9,7 +9,7 @@
 
 ## 数据上传进度
 
-- [ ] [33学习计划【基础篇】](http://oj.33dai.cn/training/63240d4ea11217d4d6434e08)
+- [ ] [33训练计划【基础篇】](http://oj.33dai.cn/training/63240d4ea11217d4d6434e08)
   - [x] 入门
   - [x] 判断
   - [x] 循环
@@ -26,5 +26,5 @@
   - [ ] 简单深搜
   - [ ] 二分
   - [ ] 线性优化策略
-- [ ] [33学习计划【基础篇】](http://oj.33dai.cn/training/63240d4ea11217d4d6434e08)
-- [ ] [33学习计划【基础篇】](http://oj.33dai.cn/training/63240d4ea11217d4d6434e08)
+- [ ] [33训练计划【基础篇】](http://oj.33dai.cn/training/63240d4ea11217d4d6434e08)
+- [ ] [33训练计划【基础篇】](http://oj.33dai.cn/training/63240d4ea11217d4d6434e08)
