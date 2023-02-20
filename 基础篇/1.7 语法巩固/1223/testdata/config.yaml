@@ -1,0 +1,28 @@
+type: default
+time: 1000ms
+memory: 125MB
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: scholar0.in
+        output: scholar0.ans
+      - input: scholar1.in
+        output: scholar1.ans
+      - input: scholar2.in
+        output: scholar2.ans
+      - input: scholar3.in
+        output: scholar3.ans
+      - input: scholar4.in
+        output: scholar4.ans
+      - input: scholar5.in
+        output: scholar5.ans
+      - input: scholar6.in
+        output: scholar6.ans
+      - input: scholar7.in
+        output: scholar7.ans
+      - input: scholar8.in
+        output: scholar8.ans
+      - input: scholar9.in
+        output: scholar9.ans

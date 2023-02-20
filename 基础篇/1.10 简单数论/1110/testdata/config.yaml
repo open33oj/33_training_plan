@@ -1,0 +1,14 @@
+type: default
+time: 500ms
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: 1.out
+      - input: 2.in
+        output: 2.out
+langs:
+  - cc.std14o2
+  - cc

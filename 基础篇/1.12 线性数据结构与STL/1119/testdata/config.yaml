@@ -1,0 +1,35 @@
+type: default
+time: 1s
+memory: 256m
+detail: false
+subtasks:
+  - score: 60
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: 1.out
+      - input: 2.in
+        output: 2.out
+      - input: 3.in
+        output: 3.out
+      - input: 4.in
+        output: 4.out
+      - input: 5.in
+        output: 5.out
+      - input: 6.in
+        output: 6.out
+  - score: 40
+    id: 2
+    type: sum
+    cases:
+      - input: 7.in
+        output: 7.out
+      - input: 8.in
+        output: 8.out
+      - input: 9.in
+        output: 9.out
+      - input: 10.in
+        output: 10.out
+      - input: 11.in
+        output: 11.out

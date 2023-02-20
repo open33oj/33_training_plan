@@ -1,0 +1,49 @@
+type: default
+time: 1000ms
+memory: 256m
+filename: null
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: transfer1.in
+        output: transfer1.ans
+      - input: transfer2.in
+        output: transfer2.ans
+      - input: transfer3.in
+        output: transfer3.ans
+      - input: transfer4.in
+        output: transfer4.ans
+      - input: transfer5.in
+        output: transfer5.ans
+      - input: transfer6.in
+        output: transfer6.ans
+      - input: transfer7.in
+        output: transfer7.ans
+      - input: transfer8.in
+        output: transfer8.ans
+      - input: transfer9.in
+        output: transfer9.ans
+      - input: transfer10.in
+        output: transfer10.ans
+      - input: transfer11.in
+        output: transfer11.ans
+      - input: transfer12.in
+        output: transfer12.ans
+      - input: transfer13.in
+        output: transfer13.ans
+      - input: transfer14.in
+        output: transfer14.ans
+      - input: transfer15.in
+        output: transfer15.ans
+      - input: transfer16.in
+        output: transfer16.ans
+      - input: transfer17.in
+        output: transfer17.ans
+      - input: transfer18.in
+        output: transfer18.ans
+      - input: transfer19.in
+        output: transfer19.ans
+      - input: transfer20.in
+        output: transfer20.ans
