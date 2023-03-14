@@ -1,0 +1,20 @@
+from cyaron import *
+
+
+for i in range(1, 11):
+    test_data = IO(file_prefix="", data_id=i)
+    if i <= 9:
+        n = q = 10
+        l = 1
+        r = 100
+    else:
+        n = q = 1000000
+        l = 1
+        r = 1000000000
+    test_data.input_writeln(n,q)
+    for i in range(n):
+        test_data.input_write(randint(l,r))
+    test_data.input_writeln()
+    for i in range(n):
+        test_data.input_writeln(randint(l,r))
+    test_data.output_gen("std.exe")

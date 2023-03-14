@@ -1,0 +1,10 @@
+type: default
+checker_type: testlib
+checker: checker.cc
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: 1.out
