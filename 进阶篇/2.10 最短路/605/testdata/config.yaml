@@ -1,0 +1,28 @@
+type: default
+time: 1000ms
+memory: 128m
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: Msner10.in
+        output: Msner10.out
+      - input: MSNER1.IN
+        output: MSNER1.OUT
+      - input: MSNER2.IN
+        output: MSNER2.OUT
+      - input: MSNER3.IN
+        output: MSNER3.OUT
+      - input: MSNER4.IN
+        output: MSNER4.OUT
+      - input: MSNER5.IN
+        output: MSNER5.OUT
+      - input: MSNER6.IN
+        output: MSNER6.OUT
+      - input: MSNER7.IN
+        output: MSNER7.OUT
+      - input: MSNER8.IN
+        output: MSNER8.OUT
+      - input: MSNER9.IN
+        output: MSNER9.OUT

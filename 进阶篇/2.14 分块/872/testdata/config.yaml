@@ -1,0 +1,28 @@
+type: default
+time: 100ms
+memory: 256MB
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: a1.in
+        output: a1.out
+      - input: a2.in
+        output: a2.out
+      - input: a3.in
+        output: a3.out
+      - input: a4.in
+        output: a4.out
+      - input: a5.in
+        output: a5.out
+      - input: a6.in
+        output: a6.out
+      - input: a7.in
+        output: a7.out
+      - input: a8.in
+        output: a8.out
+      - input: a9.in
+        output: a9.out
+      - input: a10.in
+        output: a10.out

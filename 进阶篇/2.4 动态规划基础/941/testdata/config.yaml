@@ -1,0 +1,26 @@
+type: default
+time: 1000ms
+memory: 125MB
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: input1.txt
+        output: output1.txt
+      - input: input2.txt
+        output: output2.txt
+      - input: input3.txt
+        output: output3.txt
+      - input: input4.txt
+        output: output4.txt
+      - input: input5.txt
+        output: output5.txt
+      - input: input6.txt
+        output: output6.txt
+      - input: input7.txt
+        output: output7.txt
+      - input: input8.txt
+        output: output8.txt
+      - input: input9.txt
+        output: output9.txt
