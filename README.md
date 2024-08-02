@@ -1,3 +1,5 @@
+迁移到：https://github.com/open33oj/problem-set
+
 # 33_training_plan
 
 在这里开源 ⌈33OJ⌋ 的 ⌈33 训练计划⌋ 题目数据
